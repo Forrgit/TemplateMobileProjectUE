@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.27.2-wzf_master-8.244502",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "MobileProject",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
